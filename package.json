@@ -1,6 +1,6 @@
 {
     "name": "@wonkytech/tm-console-view",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Web component to view the console logs, that can be used for testing.",
     "author": "Tim McMaster",
     "homepage": "https://tmcmaster.github.io/tm-console-view",
