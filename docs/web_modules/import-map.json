@@ -1,6 +1,7 @@
 {
   "imports": {
     "lit-element": "./lit-element.js",
-    "lit-html": "./lit-html.js"
+    "lit-html": "./lit-html.js",
+    "@wonkytech/tm-console-view": "./@wonkytech/tm-console-view.js"
   }
 }
