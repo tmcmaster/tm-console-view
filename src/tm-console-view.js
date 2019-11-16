@@ -62,6 +62,7 @@ class TmConsoleView extends LitElement {
           <h2>Console Log</h2>
           <div class="buttons">
             <button @click="${this.clearLogs}">clear logs</button>
+            <slot></slot>
           </div>
           <div id="logs"></div>
         `;
